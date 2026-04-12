@@ -81,12 +81,6 @@ digital-heroes-golf-platform/
 👨‍💻 Developer
 -Rupesh Patel
 
-Skills Demonstrated:
-- React Development
-- Node.js Backend
-- MongoDB Integration
-- REST API Design
-- UI/UX Implementation
 
 
 
