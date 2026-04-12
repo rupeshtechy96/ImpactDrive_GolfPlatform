@@ -14,32 +14,12 @@ ImpactDrive is a full-stack web platform that allows users to manage golf subscr
 
 ✨ Key Features
 
-🔐 Authentication
-- Signup & login
-- JWT authentication
-- Protected routes
-  
-📊 Score Tracking
-- Add golf scores
-- Store last 5 records
-- Track performance
-
-📦 Subscription
-- Monthly & yearly plans
-- Access premium features
-
-💚 Charity
-- Select preferred charity
-- Support social causes
-
-🎁 Rewards
-- Monthly reward eligibility
-- Tier-based winners
-
-🛠 Admin Panel
-- Manage users
-- Monitor activity
-- Control platform
+- Authentication
+- Score Tracking
+- Subscription
+- Charity
+- Rewards
+- Admin Panel
 
   ## ScreenShots
 
