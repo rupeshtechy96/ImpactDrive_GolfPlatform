@@ -1,157 +1,112 @@
 🏌️‍♂️ ImpactDrive – Golf Subscription & Charity Platform
-A modern full-stack web platform that allows golf members to manage subscriptions, track their latest scores, participate in reward draws, and support charities through a premium membership experience.
-The platform focuses on creating an emotion-driven user experience that combines sports engagement, rewards, and social impact.
 
-RenderDeployment Link --> https://impactdrive-golfplatform.onrender.com/
+Website Link: https://impact-drive-golf-platform.vercel.app/
 
-VercelDeployment Link --> https://impact-drive-golf-platform.vercel.app/
+ImpactDrive is a full-stack web platform that allows users to manage golf subscriptions, track scores, participate in rewards, and support charities.
 
-🚀 Project Objective
-The goal of this platform is to build a subscription-based golf membership system where users can:
-Track golf performance
-Participate in monthly reward draws
-Support a selected charity
-Manage membership subscriptions
-The project demonstrates full-stack development skills using the MERN stack.
+🎯 Project Objective
+- Track golf performance
+- Manage subscription plans
+- Participate in reward draws
+- Support selected charities
+- 
+👉 Combines sports, rewards, and social impact in one platform.
 
-🗂 Project Structure
+✨ Key Features
 
-digital-heroes-golf-platform
-│
-├── client (Frontend)
-│   ├── pages
-│   ├── components
-│   ├── services
-│   └── styles
-│
-├── server (Backend)
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   └── config
-│
-└── README.md
-
-
-🧠 Key Features
-👤 User Authentication
-Secure signup and login system
-Token-based authentication
-Protected user dashboard
-
+🔐 Authentication
+- Signup & login
+- JWT authentication
+- Protected routes
+  
 📊 Score Tracking
-Users can enter Stableford golf scores
-System stores only the latest 5 scores
-Scores include date and performance record
+- Add golf scores
+- Store last 5 records
+- Track performance
 
-📦 Subscription System
+📦 Subscription
+- Monthly & yearly plans
+- Access premium features
 
-Users can activate membership plans:
+💚 Charity
+- Select preferred charity
+- Support social causes
 
-Monthly Plan
-Yearly Plan
+🎁 Rewards
+- Monthly reward eligibility
+- Tier-based winners
 
-Benefits include:
-Reward eligibility
-Platform access
-Charity participation
+🛠 Admin Panel
+- Manage users
+- Monitor activity
+- Control platform
 
-💚 Charity Contribution
+  ## ScreenShots
 
-Members can select a charity they want to support.
+  <br>
 
-This allows the platform to combine:
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/31a351bf-6d80-4a7e-93ff-19c5465201c6" />
 
-Sports engagement
-Social contribution
-Community impact
+<br>
 
-🎁 Reward Participation
+🛠 Tech Stack
 
-Subscribers become eligible for monthly reward draws.
-
-Reward tiers concept:
-
-🥇 5-Number Match
-🥈 4-Number Match
-🥉 3-Number Match
-
-🛠 Admin Control Panel
-
-Admin can:
-
-View registered users
-Monitor subscriptions
-Review charity selections
-Manage platform activities
-
-🎨 UI/UX Design Principles
-
-The interface was designed with the following goals:
-
-✨ Modern product feel
-📱 Responsive layout
-💎 Premium visual experience
-🎯 Emotion-driven design
-⚡ Fast and minimal user interaction
-
-🧩 Tech Stack
 Frontend
-React (Vite)
-React Router
-Axios
-CSS (Glass UI style)
+- React (Vite)
+- React Router
+- Axios
+- CSS
 
 Backend
-Node.js
-Express.js
+- Node.js
+- Express.js
 
 Database
-MongoDB Atlas
+- MongoDB Atlas
+
 Authentication
-JWT (JSON Web Tokens)
+- JWT
 
 Deployment
-Backend → Render
-Frontend → Vercel
+Vercel (Frontend) --> https://impact-drive-golf-platform.vercel.app/
+Render (Backend) --> https://impactdrive-golfplatform.onrender.com/
 
-📸 Platform Modules
+## Project Structure
 
-Main platform sections include:
+```bash
+digital-heroes-golf-platform/
+├── client/
+│   ├── pages/
+│   ├── components/
+│   ├── services/
+│   └── styles/
+│
+├── server/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── config/
+│
+└── README.md
+```
 
-🏠 Home
-🔐 Login
-📝 Signup
-📊 Dashboard
-📈 Score Entry
-📦 Subscription Plans
-💚 Charity Selection
-🏆 Winners Section
-🛠 Admin Panel
-
-🧪 Future Improvements
-Possible upgrades for production use:
-
-💳 Payment gateway integration
-📧 Email verification
-📊 Advanced analytics dashboard
-🎲 Automated draw system
-📱 Mobile application version
-🔔 Notification system
+🚀 Future Improvements
+- Payment integration
+- Email verification
+- Analytics dashboard
+- Automated rewards
+- Notifications
+- Mobile app
 
 👨‍💻 Developer
+-Rupesh Patel
 
-Rupesh Patel
-
-Frontend Developer – Full Stack Project
-
-Skills demonstrated:
-
-React Development
-Node.js Backend
-MongoDB Integration
-REST API Design
-UI/UX Implementation
+Skills Demonstrated:
+- React Development
+- Node.js Backend
+- MongoDB Integration
+- REST API Design
+- UI/UX Implementation
 
 
 
