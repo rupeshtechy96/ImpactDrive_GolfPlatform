@@ -22,12 +22,11 @@ ImpactDrive is a full-stack web platform that allows users to manage golf subscr
 - Admin Panel
 
   ## ScreenShots
-
   <br>
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/31a351bf-6d80-4a7e-93ff-19c5465201c6" />
 
-<br>
+<br><br>
 
 🛠 Tech Stack
 
